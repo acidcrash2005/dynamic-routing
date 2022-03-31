@@ -24,6 +24,16 @@ const Header = () => (
         </Link>
       </li>
       <li>
+        <Link href="/news/football/slug-football1">
+          <a>Football News</a>
+        </Link>
+      </li>
+      <li>
+        <Link href="/seo-page/slug-page1">
+          <a>Seo page</a>
+        </Link>
+      </li>
+      <li>
         <Link href="/post/12">
           <a>Post 12</a>
         </Link>
