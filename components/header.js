@@ -9,18 +9,23 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <Link href="/about">
-          <a>About</a>
+        <Link href="/one">
+          <a>one</a>
         </Link>
       </li>
       <li>
-        <Link href="/post/first">
-          <a>First Post</a>
+        <Link href="/one/two">
+          <a>two</a>
         </Link>
       </li>
       <li>
-        <Link href="/post/second">
-          <a>Second Post</a>
+        <Link href="/one/two/three">
+          <a>three</a>
+        </Link>
+      </li>
+      <li>
+        <Link href="/post/12">
+          <a>Post 12</a>
         </Link>
       </li>
     </ul>
